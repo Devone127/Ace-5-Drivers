@@ -1,2 +1,3 @@
-##### • Sources from ColorOS 701 
-##### • Added update option
+• Sources from ColorOS 821
+
+• Improved compatibility
