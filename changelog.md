@@ -3,3 +3,5 @@
 • Improved compatibility
 
 • Fixed microphone 
+
+• Sources from ColorOS 832
