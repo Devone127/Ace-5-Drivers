@@ -5,3 +5,5 @@
 • Fixed microphone 
 
 • Sources from ColorOS 832
+
+• Sources from ColorOS 840
