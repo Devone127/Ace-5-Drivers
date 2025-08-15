@@ -2,6 +2,7 @@
 
 • Improved compatibility
 
+V1.1.7:
 • Fixed microphone 
 
 V1.1.8:
