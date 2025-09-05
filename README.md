@@ -3,6 +3,8 @@
 
 This is a module for OnePlus Ace 5 owners, who are flashing OOS or LineageOS from the OnePlus 13R
 
+![photo_2025-09-05_16-46-31](https://github.com/user-attachments/assets/9ee7bf51-6eae-48a4-93bb-7393076598d7)
+
 ### KernelSU
 
 + Minimal KernelSU version: 10940
