@@ -14,3 +14,6 @@ V1.1.9:
 V1.2:
 • Sources from ColorOS 850
 • Fix Name Device in "About Device"
+
+V1.3:
+• Sources from ColorOS 860
