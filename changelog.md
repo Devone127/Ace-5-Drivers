@@ -17,3 +17,6 @@ V1.2:
 
 V1.3:
 • Sources from ColorOS 860
+
+V1.4:
+• Sources from ColorOS Beta 16.0.0.200
