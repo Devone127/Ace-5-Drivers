@@ -17,3 +17,6 @@ V1.2:
 
 V1.3:
 • Sources from ColorOS 860
+
+V1.4:
+• Sources Drivers updated from ColorOS 16.0.0.205
