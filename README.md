@@ -1,7 +1,7 @@
 
 # Ace 5 Drivers
 <a href="https://t.me/OnePlus13R_Ace5"><img src="https://img.shields.io/badge/Telegram-Channel-blue?longCache=true&style=flat"></a><a href="https://4pda.to/forum/index.php?showtopic=1103872&view=findpost&p=140973075"><img src="https://img.shields.io/badge/4PDA%20Forum-Modules%20Thread-009688&style=plastic"></a>
-# Continuation: [NicosXRus]{https://github.com/NicosXRus/Drivers1-_Ace5} ❤️
+# Continuation: [NicosXRus](https://github.com/NicosXRus/Drivers1-_Ace5) ❤️
 
 ### 🇬🇧 English:
 This module-fix is for OnePlus Ace 5 users with OxygenOS 16. It fixes camera performance, correct battery capacity display, and the correct device name.
